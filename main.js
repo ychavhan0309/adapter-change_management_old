@@ -95,7 +95,6 @@ function get(serviceNowTable, callback) {
   });
 
 }
-*/
 
 /**
  * @function post
